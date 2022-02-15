@@ -3,4 +3,8 @@
    tasks:
            -debug:
                    msg: 1 day work
-                   msg: what dfshh  
+                   msg: what dfshh
+
+           -file:
+               path:  /tmp
+               state: touch    
