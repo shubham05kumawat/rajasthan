@@ -1,0 +1,6 @@
+---
+ - hosts: webserver
+   tasks:
+           -debug:
+                   msg: 2 day work 
+       
