@@ -1,0 +1,5 @@
+---
+ - hosts: webserver
+   tasks:
+           -debug:
+                   msg: 1 day work 
